@@ -8,7 +8,7 @@ from pyrogram.types import ForceReply
 from pykeyboard import InlineKeyboard
 from pykeyboard import ReplyKeyboard
 from pyromod import listen
-from Configs import Config
+from Config import Config
 import re
 import logging
 logging.basicConfig(level=logging.INFO)
