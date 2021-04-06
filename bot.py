@@ -9,7 +9,7 @@ from pykeyboard import InlineKeyboard
 from pykeyboard import ReplyKeyboard
 from pyromod import listen
 import re
-from config import Config
+from Config import Config
 import logging
 logging.basicConfig(level=logging.INFO)
 
