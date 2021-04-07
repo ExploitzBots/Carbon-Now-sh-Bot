@@ -1,3 +1,5 @@
+import os
+
 class Config:
     api_id = ""1776579"
     api_hash = "4ef791aa3016d7a53af3a9737a83e381"
